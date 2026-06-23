@@ -33,20 +33,7 @@ The instructions make the agent follow a stricter thinking flow:
 
 The point is not to make the agent verbose. The point is to make the hidden reasoning more complete, so the final answer is sharper.
 
-## Context Strategy
-
-I also keep project context in Markdown, mostly inside Obsidian.
-
-This is not about dumping everything into memory, RAG, graphs, or massive personal knowledge files. The useful pattern is much smaller: write down only the reusable 20% of context that creates 80% of the value.
-
-For client work, this is often enough:
-
-- a customer profile: who the client is, what they want, their budget, target platforms, constraints, and preferences
-- a solution whitepaper: the proposed stack, workflow, automation logic, and implementation assumptions
-
-Other files can be generated with the agent as the project evolves, such as final architecture, pipeline details, or delivery notes.
-
-The important rule: think carefully about what deserves to become Markdown context. Do not store everything. Write the most important context by hand, because agent-generated context often repeats what the agent already knows.
+**IMPORTANT**: For better results, you should also install EXA MCP to enrich the tasks context.
 
 ## Repository Contents
 
