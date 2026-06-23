@@ -1,5 +1,7 @@
 # Agent Thinking Principles
 
+<img width="1672" height="941" alt="header" src="https://github.com/user-attachments/assets/7c4c01c5-1732-482e-a63f-4c1880203d94" />
+
 This repository contains my global `AGENTS.md` for Codex and other AI coding agents.
 
 The goal is simple: make the agent reason through the whole problem before it starts generating answers. I use these instructions to push the agent away from narrow edge-case suggestions and toward structured problem solving with explicit context, constraints, hypotheses, and evidence.
